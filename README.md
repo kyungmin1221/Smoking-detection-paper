@@ -1,4 +1,5 @@
 # (논문) 딥러닝 기술을 이용한 영상에서 흡연검출 프로그램
+- (Thesis) Detection of Smoking Behavior in Images Using Deep Learning Technology
 
 ### < 요약 > 
 본 논문은 인공지능 기술을 활용하여 영상에서 흡연행위를 검출하는 방법을 제안한다.
